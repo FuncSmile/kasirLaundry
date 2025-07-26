@@ -4,7 +4,6 @@ Program Kasir Laundry adalah aplikasi desktop sederhana untuk membantu proses tr
 ## Fitur
 - Input data pelanggan
 - Input dan proses transaksi laundry
-- Cetak struk transaksi
 - Laporan transaksi harian/bulanan
 - Manajemen paket laundry
 
